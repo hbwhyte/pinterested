@@ -1,0 +1,10 @@
+$navbar-height: 100px;
+$navbar-default-bg: #cc0000;
+$navbar-default-brand-color: #FFF;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.center {
+    text-align: center
+}
